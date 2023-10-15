@@ -80,7 +80,7 @@ git push origin nome-da-sua-branch
 
 ## Créditos
 
-- [Figma layout](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate)
+- [Figma layout](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=0%3A1&mode=dev)
 - [Vite](https://vitejs.dev/)
 - [Rocketseat](https://www.rocketseat.com.br/)
 
