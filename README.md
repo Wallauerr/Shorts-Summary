@@ -55,7 +55,7 @@ npm run server
 
 Apesar de ser um desafio para estudos contribuições são sempre bem-vindas! Siga as etapas abaixo para contribuir com este projeto:
 
-1. Dê um fork este repositório.
+1. Dê um fork neste repositório.
 2. Crie uma nova branch com sua feature/correção:
 
 ```
@@ -80,6 +80,9 @@ git push origin nome-da-sua-branch
 
 ## Créditos
 
+- [Xenova/transformers](https://github.com/xenova/transformers.js)
+- [Axiosjs](https://axios-http.com/)
+- [Expressjs](https://expressjs.com/pt-br/)
 - [Figma layout](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=0%3A1&mode=dev)
 - [Vite](https://vitejs.dev/)
 - [Rocketseat](https://www.rocketseat.com.br/)
